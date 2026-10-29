@@ -1,0 +1,19 @@
+# Raw dataset files
+data/*.csv
+data/*.sql
+data/*.zip
+
+# Local config
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Windows file-explorer metadata
+Thumbs.db
+desktop.ini
+
+# macOS Finder metadata (kept in case someone clones this on a Mac)
+.DS_Store
