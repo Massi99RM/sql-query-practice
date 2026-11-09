@@ -2,6 +2,7 @@
 data/*.csv
 data/*.sql
 data/*.zip
+data/*.xml
 
 # Local config
 .env

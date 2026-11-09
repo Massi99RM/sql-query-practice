@@ -1,0 +1,2 @@
+# PostgreSQL adapter — used by load_data.py to connect to and populate the database
+psycopg2-binary==2.9.13
